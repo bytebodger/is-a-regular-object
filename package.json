@@ -1,6 +1,6 @@
 {
   "name": "@toolz/is-a-regular-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility function for identifying regular JavaScript objects",
   "keywords": [
     "data type",
@@ -15,7 +15,7 @@
     "email": "adam.davis@hashverify.com",
     "url": "https://github.com/bytebodger/is-a-regular-object/issues"
   },
-  "main": "src/allow.js",
+  "main": "src/is.a.regular.object.js",
   "scripts": {
     "local": "nodemon --experimental-modules --es-module-specifier-resolution=node src/is.a.regular.object.js",
     "start": "node --experimental-modules --es-module-specifier-resolution=node src/is.a.regular.object.js",
